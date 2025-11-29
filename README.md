@@ -8,4 +8,5 @@ Hej!
 ![Static Badge](https://img.shields.io/badge/redhat-%23EE0000?logo=redhat&logoColor=black)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troley12)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/troley12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/troley12/github-stats/master/generated/overview.svg#gh-light-mode-only)

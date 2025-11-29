@@ -7,6 +7,3 @@ Hej!
 
 ![Static Badge](https://img.shields.io/badge/redhat-%23EE0000?logo=redhat&logoColor=black)
 
-
-![](https://raw.githubusercontent.com/troley12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/troley12/github-stats/master/generated/overview.svg#gh-light-mode-only)
